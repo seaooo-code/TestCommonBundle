@@ -1,0 +1,13 @@
+node_modules
+dist
+.git
+.idea
+.gradle
+android/.gradle
+android/app/build
+ios/Pods
+build
+DerivedData
+npm-debug.log
+yarn-error.log
+.DS_Store
